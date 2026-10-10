@@ -48,6 +48,7 @@
 #include <Protocol/DiskIo.h>
 #include <Protocol/DiskIo2.h>
 #include <Protocol/LoadedImage.h>
+#include <Protocol/SimpleFileSystem.h>
 
 #include <Guid/FileInfo.h>
 #include <Guid/FileSystemInfo.h>
